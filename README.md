@@ -81,11 +81,11 @@ All these examples are chosen from David Silver's Reinforcement Leanrning class 
 
 **Environment** 
 
-![]( David-Silver-Reinforcement-Learning/example_pics/bj.jpg )
+![image]( https://github.com/Wongcheukwai/David-Silver-Reinforcement-Learning/example_pics/bj.jpg )
 
 * Black Jack
 * game rule: 
- 	1.  First step : both the dealer and player have two cards, one of the dealers is called "showing card"
+ 	*  First step : both the dealer and player have two cards, one of the dealers is called "showing card"
 	*  Second step : the player can choose "stick"(stop getting card) or "hit"(get one more card) until the player's sum is over 21 or choose to stick.
 	*  Third step: the dealer's policy is fixed: if the dealer's sum is over 17, twist, otherwise,stick.
 	*  The person whose sum is over 21 loses ( busted ).
