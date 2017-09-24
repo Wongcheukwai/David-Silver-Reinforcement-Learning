@@ -81,7 +81,7 @@ All these examples are chosen from David Silver's Reinforcement Leanrning class 
 
 **Environment** 
 
-![image]( https://github.com/Wongcheukwai/David-Silver-Reinforcement-Learning/example_pics/bj.jpg )
+![image]( David-Silver-Reinforcement-Learning/example_pics/bj.jpg )
 
 * Black Jack
 * game rule: 
