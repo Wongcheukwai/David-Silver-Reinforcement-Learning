@@ -12,7 +12,6 @@ All these examples are chosen from David Silver's Reinforcement Leanrning class 
 
 **Environment** 
 
-![](/Users/wongcheukwai/Desktop/1505801413419.jpg)
 
 * 4*4 gridworld， the top left corner is the goal
 * when the agent's path is blocked by the wall, it will not choose the action leading to that
@@ -29,7 +28,6 @@ All these examples are chosen from David Silver's Reinforcement Leanrning class 
 
 **Environment** 
 
-![](/Users/wongcheukwai/Desktop/policyiteration.jpg)
 
 * 4*4 gridworld，the top left and bottom right corner is the goal
 * when the agent's path is blocked by the wall, it will not choose the action leading to that
@@ -49,7 +47,6 @@ All these examples are chosen from David Silver's Reinforcement Leanrning class 
 
 **Environment** 
 
-![](/Users/wongcheukwai/Desktop/rw1.jpg)
 
 * start from state C, terminates on both sides
 * action : left, right 
@@ -65,7 +62,6 @@ All these examples are chosen from David Silver's Reinforcement Leanrning class 
 
 **Environment** 
 
-![](/Users/wongcheukwai/Desktop/rw1.jpg)
 
 * start from state C, terminates on both sides
 * action : left, right 
@@ -81,7 +77,6 @@ All these examples are chosen from David Silver's Reinforcement Leanrning class 
 
 **Environment** 
 
-![image]( David-Silver-Reinforcement-Learning/example_pics/bj.jpg )
 
 * Black Jack
 * game rule: 
@@ -106,7 +101,6 @@ All these examples are chosen from David Silver's Reinforcement Leanrning class 
 ## Q-Learning and Sarsa
 **Environment** 
 
-![](/Users/wongcheukwai/Desktop/cw.jpg)
 
 * Cliff Walking
 * agent finds its way to the goal on the bottom right corner (terminal)
@@ -125,7 +119,6 @@ All these examples are chosen from David Silver's Reinforcement Leanrning class 
 ## Sarsa Semi-Gradient Approximation
 **Environment** 
 
-![](/Users/wongcheukwai/Desktop/moc.jpg)
 
 * Mountain Car
 * agent（car） tried to reach the goal by moving back and forth in the valley ( even at full throttle the car cannot accelerate up the steep slope )
